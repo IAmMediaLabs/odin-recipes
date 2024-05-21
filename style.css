@@ -1,0 +1,17 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.heading {
+    color: turquoise;
+    font-weight: 700;
+    font-size: 36px;
+    
+}
+
+.link {
+    color: blueviolet;
+    font-size: 24px;
+    font-weight: bold;
+
+}
